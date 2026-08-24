@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Berat Beşli - Technology Portfolio</title>
+  <desc id="desc">Software, robotics, artificial intelligence and embedded systems portfolio banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.52" stop-color="#102b46"/>
+      <stop offset="1" stop-color="#0c5360"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <g fill="none" stroke="#38bdf8" stroke-opacity="0.2" stroke-width="2">
+    <path d="M0 74h150l52 52h130"/><path d="M0 254h210l48-48h104"/>
+    <path d="M1200 56h-174l-46 46H842"/><path d="M1200 264h-208l-44-44H812"/>
+    <circle cx="202" cy="126" r="6"/><circle cx="258" cy="206" r="6"/>
+    <circle cx="980" cy="102" r="6"/><circle cx="948" cy="220" r="6"/>
+  </g>
+  <g filter="url(#glow)">
+    <circle cx="92" cy="160" r="44" fill="none" stroke="url(#accent)" stroke-width="5"/>
+    <path d="M72 160h40M92 140v40" stroke="#e6fbff" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <text x="600" y="116" text-anchor="middle" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="3">BERAT BEŞLİ</text>
+  <rect x="366" y="142" width="468" height="4" rx="2" fill="url(#accent)"/>
+  <text x="600" y="192" text-anchor="middle" fill="#a5f3fc" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">YAZILIM • ROBOTİK • YAPAY ZEKA • GÖMÜLÜ SİSTEMLER</text>
+  <text x="600" y="238" text-anchor="middle" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="20">Mucit · Geliştirici · Disiplinler Arası Proje Üreticisi</text>
+  <g transform="translate(1080 160)" fill="none" stroke="#2dd4bf" stroke-width="4" filter="url(#glow)">
+    <path d="M-32-12h20l12-20 12 20h20M-32 12h20l12 20 12-20h20"/>
+    <circle cx="-36" cy="-12" r="5" fill="#2dd4bf"/><circle cx="36" cy="-12" r="5" fill="#2dd4bf"/>
+    <circle cx="-36" cy="12" r="5" fill="#2dd4bf"/><circle cx="36" cy="12" r="5" fill="#2dd4bf"/>
+  </g>
+</svg>
+
