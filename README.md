@@ -16,11 +16,11 @@ Yazılım, robotik, yapay zeka ve gömülü sistemlerle uğraşıyorum. Bir fikr
 
 Bugüne kadar bilgisayar, makine ve mekatronik mühendisleriyle projeler geliştirdim. Yarışmalar, hackathonlar ve bilim fuarları da bana hem ekip çalışmasını hem de kısa sürede çözüm üretmeyi öğretti.
 
-> **English:** Developer and young inventor interested in software, robotics, AI and embedded systems.
+> **English:** Developer interested in software, robotics, AI and embedded systems.
 
 ## 🧠 Patent başvurusu
 
-Gülnıhal Aktaş ile geliştirdiğimiz **Akıllı Giysi ve Dokunsal Biyogeribildirim Sistemi** için yaptığımız başvuru, `TR 2026 008928 A2` numarasıyla yayımlandı. Kısaca proje; stres takibi yapabilen ve gerektiğinde dokunsal uyarı veren giyilebilir bir sistem.
+Geliştirdiğim **Akıllı Giysi ve Dokunsal Biyogeribildirim Sistemi** için yapılan başvuru, `TR 2026 008928 A2` numarasıyla yayımlandı. Kısaca proje; stres takibi yapabilen ve gerektiğinde dokunsal uyarı veren giyilebilir bir sistem.
 
 🔗 [Projenin arayüz prototipi ve yayımlanan başvuru belgesi](https://github.com/beratbesli/akilligiysiapp)
 
@@ -43,11 +43,13 @@ Ayrıca şu anda detaylarını henüz paylaşamadığım **bir patent başvurum 
 - **TEKNOFEST 2021 - İnsanlık Yararına Teknoloji Yarışması:** finalist.
 - **TEKNOFEST 2022 Karadeniz - Eğitim Teknolojileri Yarışması:** finalist.
 - **TUA Astro Hackathon:** A.Y.U.S. projesiyle katılım ve **ilk 5** içinde yer alma.
+- **DENEYAP Teknoloji Atölyeleri yarışmaları:** katıldığım çeşitli yarışmalarda **1., 2. ve 3. dereceler** elde ettim.
 
 ### Ulusal ve uluslararası katılımlar
 
 - **Uluslararası ODTÜ Robot Günleri:** iki farklı takım bünyesinde yarışma deneyimi.
 - **The Blueprint Uluslararası Hackathon:** katılım.
+- **TEKNOFEST 2025 KKTC:** katılım.
 - **FIRST LEGO League 2022 - Cargo Connect:** 18. sezon, 3. Ortaokul Yerel Turnuvası katılımı.
 - **Kanguru Fen Yarışması 2022:** Türkiye finalleri katılımı.
 - **TÜBİTAK 4006-A ve 4006-C Bilim Fuarları:** proje ve fuar katılımı.
