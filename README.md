@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Patent](https://img.shields.io/badge/Patent_Başvurusu-TR_2026_008928_A2-0f766e?style=for-the-badge)](#-öne-çıkan-çalışma-yayımlanmış-patent-başvurusu)
+[![Patent](https://img.shields.io/badge/Patent_Başvurusu-TR_2026_008928_A2-0f766e?style=for-the-badge)](#-patent-başvurusu)
 [![TEKNOFEST](https://img.shields.io/badge/TEKNOFEST-2×_Finalist-e11d48?style=for-the-badge)](#-yarışmalar-hackathonlar-ve-bilim-etkinlikleri)
 [![DENEYAP](https://img.shields.io/badge/DENEYAP-İlk_Dönem_Mezunu-f59e0b?style=for-the-badge)](#-deneyap-türkiye-teknoloji-eğitimleri)
 
@@ -12,27 +12,19 @@
 
 ## Merhaba, ben Berat 👋
 
-Yazılım, robotik, yapay zeka, gömülü sistemler ve giyilebilir sağlık teknolojilerinin kesişiminde projeler geliştiriyorum. Fikirleri yalnızca kavramsal düzeyde bırakmak yerine; elektronik, mekanik, yazılım ve kullanıcı deneyimi katmanlarını bir araya getirerek çalışan prototiplere dönüştürmeye odaklanıyorum.
+Yazılım, robotik, yapay zeka ve gömülü sistemlerle uğraşıyorum. Bir fikri sadece düşünce olarak bırakmak yerine çalışır bir prototipe dönüştürmek en sevdiğim kısım.
 
-Bilgisayar, makine ve mekatronik mühendisleriyle birlikte disiplinler arası projeler geliştirdim. Yarışmalar, hackathonlar, bilim fuarları ve teknoloji eğitimleri sayesinde ekip çalışması, hızlı prototipleme, araştırma ve teknik sunum alanlarında deneyim kazandım.
+Bugüne kadar bilgisayar, makine ve mekatronik mühendisleriyle projeler geliştirdim. Yarışmalar, hackathonlar ve bilim fuarları da bana hem ekip çalışmasını hem de kısa sürede çözüm üretmeyi öğretti.
 
-> **English:** Young inventor and developer working across software, robotics, AI, embedded systems and wearable technologies.
+> **English:** Developer and young inventor interested in software, robotics, AI and embedded systems.
 
-## 🧠 Öne çıkan çalışma: yayımlanmış patent başvurusu
+## 🧠 Patent başvurusu
 
-### Akıllı Giysi ve Dokunsal Biyogeribildirim Sistemi
+Gülnıhal Aktaş ile geliştirdiğimiz **Akıllı Giysi ve Dokunsal Biyogeribildirim Sistemi** için yaptığımız başvuru, `TR 2026 008928 A2` numarasıyla yayımlandı. Kısaca proje; stres takibi yapabilen ve gerektiğinde dokunsal uyarı veren giyilebilir bir sistem.
 
-- **Yayın numarası:** `TR 2026 008928 A2`
-- **Başvuru numarası:** `2026/008928`
-- **Başvuru tarihi:** 5 Haziran 2026
-- **Yayın tarihi:** 22 Haziran 2026
-- **Buluşu yapanlar:** Berat Beşli ve Gülnıhal Aktaş
+🔗 [Projenin arayüz prototipi ve yayımlanan başvuru belgesi](https://github.com/beratbesli/akilligiysiapp)
 
-Tekstil yüzeyine entegre elektrotlarla EKG ve HRV tabanlı stres takibi gerçekleştiren; kritik eşiklerde dokunsal uyarı üreten ve işlenen verileri mobil uygulamaya aktarabilen giyilebilir bir sistem üzerinde çalıştık. Proje; elektronik donanım, gömülü sistemler, biyosinyal işleme, kablosuz haberleşme, mobil arayüz ve kullanıcı güvenliği başlıklarını bir araya getiriyor.
-
-🔗 [Akıllı Giysi Sağlık Monitörü arayüz prototipi ve yayımlanmış patent belgesi](https://github.com/beratbesli/akilligiysiapp)
-
-> Ayrıca şu anda **bir patent başvurusu daha** hazırlık/başvuru sürecindedir. Süreç henüz kamuya açıklanmadığı için teknik ayrıntıları burada paylaşmıyorum.
+Ayrıca şu anda detaylarını henüz paylaşamadığım **bir patent başvurum daha** süreçte.
 
 ## 🛠️ Öne çıkan projeler
 
@@ -42,7 +34,7 @@ Tekstil yüzeyine entegre elektrotlarla EKG ve HRV tabanlı stres takibi gerçek
 | [A.Y.U.S.](https://github.com/beratbesli/A.Y.U.S.) | Afet teknolojileri ve görüntü işleme | TUA Astro Hackathon için geliştirilen risk haritası ve tahliye rotası prototipi |
 | [AyranOS](https://github.com/beratbesli/AyranOS) | İşletim sistemleri | C ve NASM ile geliştirilen, BIOS üzerinden açılan deneysel 32-bit x86 işletim sistemi |
 | [Ayran-Network](https://github.com/beratbesli/Ayran-Network) | Ağ gözlemlenebilirliği | Linux için süreç bazlı bağlantı ve bant genişliği takibi sunan terminal arayüzü |
-| [Ayran-Notes](https://github.com/beratbesli/Ayran-Notes) | Masaüstü yazılım | Markdown tabanlı, özelleştirilebilir Linux not alma uygulaması |
+| [Türkçe Wikipedia FTS5 Arama Motoru](https://github.com/beratbesli/wikipedia-fts5-arama-motoru) | Arama motoru ve veri işleme | Türkçe Wikipedia üzerinde SQLite FTS5 ve BM25 ile hızlı yerel arama |
 
 ## 🏆 Yarışmalar, hackathonlar ve bilim etkinlikleri
 
@@ -61,35 +53,29 @@ Tekstil yüzeyine entegre elektrotlarla EKG ve HRV tabanlı stres takibi gerçek
 - **TÜBİTAK 4006-A ve 4006-C Bilim Fuarları:** proje ve fuar katılımı.
 - **2023 Edirne Eğitim Vizyonu - Tasarım Beceri Atölyeleri:** yarışma katılımı.
 
-## 🎓 DENEYAP Türkiye teknoloji eğitimleri
+## 🎓 DENEYAP eğitimleri ve sertifikaları
 
-Edirne DENEYAP Teknoloji Atölyesi'nin **ilk dönem öğrencilerinden ve mezunlarından biri** olarak uzun soluklu, uygulamalı teknoloji eğitimini tamamladım.
+Edirne DENEYAP Teknoloji Atölyesi'nin **ilk dönem öğrencilerinden ve mezunlarından biriyim**. Burada farklı alanları deneyerek hangi teknolojilerle çalışmayı sevdiğimi keşfetme fırsatım oldu.
 
-| Eğitim | Dönem / süre |
-| --- | --- |
-| Robotik ve Kodlama | 28 Eylül 2019 - 5 Ocak 2020 |
-| Elektronik Programlama ve Nesnelerin İnterneti | 18 Ocak - 3 Mayıs 2021 · 32 saat |
-| Yazılım Teknolojileri | 8 Mayıs - 31 Temmuz 2021 · 48 saat |
-| İleri Robotik | 4 Eylül - 21 Kasım 2021 · 48 saat |
-| Malzeme Bilimi ve Nanoteknoloji | 11 Aralık 2021 - 6 Şubat 2022 · 28 saat |
-| Yapay Zeka | 28 Şubat - 18 Nisan 2022 · 32 saat |
-| Enerji Teknolojileri | 19 Şubat - 29 Mayıs 2022 · 48 saat |
-| Mobil Uygulama | 25 Nisan - 30 Mayıs 2022 · 20 saat |
-| Havacılık ve Uzay Teknolojileri | 11 Haziran - 16 Temmuz 2022 · 48 saat |
-| Tasarım ve Üretim | DENEYAP Türkiye eğitimi |
-| Siber Güvenlik | DENEYAP Türkiye eğitimi |
-
-Bu program; elektronik, yazılım, üretim, yapay zeka, malzeme bilimi, enerji, havacılık ve siber güvenlik alanlarında geniş bir teknik temel oluşturmamı sağladı.
+- Robotik ve Kodlama
+- Elektronik Programlama ve Nesnelerin İnterneti
+- Yazılım Teknolojileri
+- İleri Robotik
+- Malzeme Bilimi ve Nanoteknoloji
+- Yapay Zeka
+- Enerji Teknolojileri
+- Mobil Uygulama
+- Havacılık ve Uzay Teknolojileri
+- Tasarım ve Üretim
+- Siber Güvenlik
 
 ## 🎤 Konuşmalar, programlar ve teknoloji ekosistemi
 
 - **T.C. Millî Eğitim Bakanlığı Girişimcilik ve Öğrenci Çalıştayı:** konuşmacı katılımı.
 - **MEB Maziden Atiye Programı - Edirne:** katılım.
-- Teknoloji ekosisteminin farklı paydaşlarıyla yüz yüze görüşme ve fikir alışverişi fırsatları.
+### Benim için özel buluşmalar
 
-### Özellikle değer verdiğim buluşmalar
-
-**Selçuk Bayraktar ile yüz yüze konuşma ve fikir alışverişinde bulunma fırsatı**, teknoloji üretme yolculuğumun en özel deneyimlerinden biri oldu. Bunun yanında **ASELSAN Akademi Başkanı** ve **Edirne Teknopark Genel Müdürü** ile de yüz yüze görüşerek teknoloji, mühendislik ve proje geliştirme üzerine konuşma imkanı buldum.
+**Selçuk Bayraktar'la yüz yüze konuşma fırsatı bulmak** benim için gerçekten özel bir deneyimdi. Ayrıca **ASELSAN Akademi Başkanı** ve **Edirne Teknopark Genel Müdürü** ile de tanışıp teknoloji ve proje geliştirme üzerine sohbet ettim.
 
 ## ⚙️ Çalıştığım alanlar
 
@@ -117,9 +103,5 @@ Bu program; elektronik, yazılım, üretim, yapay zeka, malzeme bilimi, enerji, 
 
 ## 🤝 İş birliği
 
-Yeni teknoloji fikirleri, yarışma ekipleri, araştırma-prototip çalışmaları ve açık kaynak projeleri için iş birliklerine açığım. Benimle GitHub üzerinden iletişime geçebilir veya ilgili depolarda bir issue açabilirsiniz.
-
----
-
-<sub>Bu profildeki başarı özetleri kişisel veri içeren belgeler incelenerek hazırlanmıştır. Kimlik numarası, doğum bilgisi, imza ve benzeri özel bilgiler yayımlanmamıştır. “Patent” ifadesi, yayımlanmış patent başvurusunu belirtir; tescil verilmiş olduğu anlamına gelmez.</sub>
+Yeni fikirler üretmeyi ve farklı alanlardan insanlarla çalışmayı seviyorum. Bir proje, yarışma ekibi veya açık kaynak fikri için benimle GitHub üzerinden iletişime geçebilirsin.
 
