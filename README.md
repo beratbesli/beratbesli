@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/profile-banner.svg?v=20260907" alt="Berat Beşli — From bare metal to applied AI. Systems, embedded AI and robotics." width="100%" />
+  <img src="https://raw.githubusercontent.com/beratbesli/beratbesli/ae0204dcebc01874c59e80f5b6eba4b7fcd76595/assets/profile-banner.svg" alt="Berat Beşli — From bare metal to applied AI. Systems, embedded AI and robotics." width="100%" />
 </p>
 
 I build software that reaches into the physical world: operating systems, on-device AI, and wearable technology. I like understanding the whole path, from memory and hardware to the experience someone actually uses.
