@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+  <title id="title">Berat Beşli — Field Notes</title>
+  <desc id="desc">An editorial notebook inspired banner with abstract project marks.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#192028" stroke-width="1" opacity=".12"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#18212b" flood-opacity=".13"/>
+    </filter>
+  </defs>
+  <rect width="1500" height="500" rx="28" fill="#eeeadd"/>
+  <rect width="1500" height="500" rx="28" fill="url(#grid)"/>
+  <path d="M58 68h1384M58 432h1384" stroke="#1f2933" stroke-width="2"/>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, sans-serif" fill="#192028">
+    <text x="72" y="123" font-size="14" font-weight="700" letter-spacing="3">SELECTED WORK / OPEN NOTEBOOK</text>
+    <text x="70" y="266" font-size="92" font-weight="750" letter-spacing="-5">Berat Beşli</text>
+    <text x="75" y="315" font-size="20" font-weight="500" letter-spacing=".5">I follow ideas through every layer.</text>
+    <text x="75" y="397" font-size="13" font-weight="650" letter-spacing="2">RESEARCH → ARCHITECTURE → BUILD → TEST → IMPROVE</text>
+  </g>
+
+  <g transform="translate(895 92) rotate(-3 235 145)" filter="url(#shadow)">
+    <rect width="470" height="290" rx="12" fill="#17212b"/>
+    <circle cx="36" cy="36" r="7" fill="#ff7a5c"/>
+    <circle cx="60" cy="36" r="7" fill="#f4c95d"/>
+    <circle cx="84" cy="36" r="7" fill="#6ad6ae"/>
+    <g fill="none" stroke-linecap="round">
+      <path d="M42 92h118l45 44h95l44-34h82" stroke="#6ad6ae" stroke-width="3"/>
+      <path d="M42 166h86l47-30 73 66h92l42-31h44" stroke="#71a8ff" stroke-width="3"/>
+      <path d="M42 236h70l40-31h69l32-54h75l36 62h62" stroke="#ffb45e" stroke-width="3"/>
+    </g>
+    <g fill="#17212b" stroke-width="3">
+      <circle cx="160" cy="92" r="8" stroke="#6ad6ae"/><circle cx="300" cy="136" r="8" stroke="#6ad6ae"/>
+      <circle cx="175" cy="136" r="8" stroke="#71a8ff"/><circle cx="248" cy="202" r="8" stroke="#71a8ff"/>
+      <circle cx="152" cy="205" r="8" stroke="#ffb45e"/><circle cx="253" cy="151" r="8" stroke="#ffb45e"/>
+    </g>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1">
+      <text x="42" y="118" fill="#8ea2b8">LANGUAGE</text>
+      <text x="42" y="192" fill="#8ea2b8">APPLICATION</text>
+      <text x="42" y="262" fill="#8ea2b8">SYSTEM</text>
+      <text x="373" y="264" fill="#617386">WORKING_01</text>
+    </g>
+  </g>
+
+  <g fill="#192028" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">
+    <text x="1380" y="92">BB/26</text>
+    <path d="M1394 112v270" stroke="#192028"/>
+    <text transform="translate(1410 380) rotate(-90)">THINGS THAT CAN BE BUILT</text>
+  </g>
+</svg>

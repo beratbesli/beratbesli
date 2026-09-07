@@ -1,5 +1,5 @@
 <p>
-  <img src="assets/profile-banner-pixel-tech.png" alt="Berat Beşli — Pixel-art software workshop" width="100%" />
+  <img src="assets/profile-banner-field-notes.svg" alt="Berat Beşli — Selected work and open notebook" width="100%" />
 </p>
 
 I’m a developer who enjoys understanding how technology works and turning ideas into working projects. I build across application software, artificial intelligence, data and search, operating systems, robotics, and embedded computing.
