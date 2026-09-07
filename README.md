@@ -1,5 +1,5 @@
 <p>
-  <img src="https://raw.githubusercontent.com/beratbesli/beratbesli/0f2e62c3bf28b2d9c587480e0cbd5d1da53a8727/assets/profile-banner-software.svg" alt="Berat Beşli — Software, language models and data" width="100%" />
+  <img src="assets/profile-banner-pixel-tech.png" alt="Berat Beşli — Pixel-art software workshop" width="100%" />
 </p>
 
 I’m a developer who enjoys understanding how technology works and turning ideas into working projects. I build across application software, artificial intelligence, data and search, operating systems, robotics, and embedded computing.
