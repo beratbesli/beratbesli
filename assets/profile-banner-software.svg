@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Berat Beşli — Software, language models and data</title>
+  <desc id="desc">A dark editorial banner with a software window, text cursor, and connected data nodes.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#61716e" opacity=".20"/>
+    </pattern>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1c3331"/><stop offset="1" stop-color="#111d24"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1200" height="360" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="#10191f"/>
+    <rect x="770" width="430" height="360" fill="url(#grid)"/>
+    <path d="M0 0H1200" stroke="#c6f17c" stroke-width="6"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="56" y="66" fill="#c6f17c" font-size="16" font-weight="700" letter-spacing="3">SOFTWARE / LANGUAGE MODELS / DATA</text>
+      <text x="52" y="153" fill="#f3f2e9" font-size="76" font-weight="700" letter-spacing="-3">Berat Beşli</text>
+      <text x="56" y="211" fill="#cbd2cb" font-size="31" letter-spacing="-.5">Turning ideas into useful software.</text>
+      <path d="M56 252H720" stroke="#34413f"/>
+      <circle cx="62" cy="294" r="5" fill="#c6f17c"/>
+      <text x="80" y="301" fill="#aab8ad" font-size="18" letter-spacing="1">BUILD · LEARN · SHIP</text>
+    </g>
+    <g fill="none" stroke="#56705d" stroke-width="2">
+      <path d="M862 109H820L790 79H756"/><path d="M862 143H810L780 173H744"/>
+      <path d="M862 245H822L790 277H758"/><path d="M1084 109H1124L1154 79H1200"/>
+      <path d="M1084 143H1130L1160 173H1200"/><path d="M1084 245H1120L1154 279H1200"/>
+    </g>
+    <g fill="#c6f17c">
+      <circle cx="790" cy="79" r="4"/><circle cx="780" cy="173" r="4"/><circle cx="790" cy="277" r="4"/>
+      <circle cx="1154" cy="79" r="4"/><circle cx="1160" cy="173" r="4"/><circle cx="1154" cy="279" r="4"/>
+    </g>
+    <rect x="850" y="88" width="246" height="188" rx="16" fill="url(#panel)" stroke="#66845f"/>
+    <path d="M850 126H1096" stroke="#66845f"/>
+    <circle cx="874" cy="107" r="5" fill="#ef7d6f"/><circle cx="892" cy="107" r="5" fill="#e5c36a"/><circle cx="910" cy="107" r="5" fill="#8bc979"/>
+    <g font-family="monospace" font-size="18">
+      <text x="878" y="163" fill="#c6f17c">model</text><text x="938" y="163" fill="#8fa69b">.learn(data)</text>
+      <text x="878" y="199" fill="#86c5da">app</text><text x="914" y="199" fill="#8fa69b">.build(idea)</text>
+      <text x="878" y="235" fill="#d6b6e8">ship</text><text x="926" y="235" fill="#f3f2e9">()</text>
+      <rect x="962" y="216" width="3" height="23" fill="#c6f17c"/>
+    </g>
+  </g>
+</svg>
