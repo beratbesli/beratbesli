@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/profile-banner-software.svg" alt="Berat Beşli — Software, language models and data" width="100%" />
+  <img src="https://raw.githubusercontent.com/beratbesli/beratbesli/0f2e62c3bf28b2d9c587480e0cbd5d1da53a8727/assets/profile-banner-software.svg" alt="Berat Beşli — Software, language models and data" width="100%" />
 </p>
 
 I’m a software developer interested in **language models, data-intensive applications, and tools people can actually use**. My projects range from AI-assisted web products and desktop applications to search engines and low-level systems.
