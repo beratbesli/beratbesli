@@ -35,6 +35,15 @@ Whether a project begins with a user need, a technical question, or an experimen
 </tr>
 </table>
 
+### Systems and reliability work
+
+I also build the tools around the failure modes that are easy to miss in a
+demo: [Faultline](https://github.com/beratbesli/Faultline) generates and
+minimizes migration counterexamples, while
+[Remnant](https://github.com/beratbesli/Remnant) minimizes the persistent state
+needed to reproduce an existing failure. [A.Y.U.S.](https://github.com/beratbesli/A.Y.U.S.)
+applies the same evidence-first mindset to disaster route planning.
+
 **Also exploring:** [AI-assisted customer insight](https://github.com/beratbesli/silent_churn) · [large-corpus Turkish language modeling](https://github.com/beratbesli/turkish-markov) · [3D weather & ocean telemetry](https://github.com/beratbesli/weatherminus) · [wearable health interfaces](https://github.com/beratbesli/akilligiysiapp)
 
 ### Skills
@@ -59,3 +68,6 @@ This experience taught me to approach problems from different angles, combine di
 ---
 
 I’m open to collaborating on ambitious technical projects and open-source tools. If one of these projects interests you, feel free to start a discussion.
+
+For the most current build, test, and release status, see the individual
+repository README and CI checks linked above.
