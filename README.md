@@ -44,7 +44,7 @@ minimizes migration counterexamples, while
 needed to reproduce an existing failure. [A.Y.U.S.](https://github.com/beratbesli/ayus-route-planner)
 applies the same evidence-first mindset to disaster route planning.
 
-**Also exploring:** [AI-assisted customer insight](https://github.com/beratbesli/silent_churn) · [large-corpus Turkish language modeling](https://github.com/beratbesli/turkish-markov) · [3D weather & ocean telemetry](https://github.com/beratbesli/weatherminus) · [wearable health interfaces](https://github.com/beratbesli/akilligiysiapp)
+**Also exploring:** [AI-assisted customer insight](https://github.com/beratbesli/silent_churn) · [large-corpus Turkish language modeling](https://github.com/beratbesli/turkish-markov) · [exact-opposite weather mapping](https://github.com/beratbesli/weatherminus) · [wearable health interfaces](https://github.com/beratbesli/akilligiysiapp)
 
 ### Skills
 
